@@ -1,5 +1,6 @@
 Data Structure implementation
 
+
 LinkedList
 -- insert(int data)
 -- delete(int index)
